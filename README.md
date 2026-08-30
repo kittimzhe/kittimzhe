@@ -27,11 +27,9 @@ Java · Python · Go · C/C++ ｜ Spring Boot · FastAPI ｜ Spring AI · LangGr
 - 向 8 个仓库提交 16 个 PR，**6 个已合并**：文档治理、坏链与 typo 修复，以及 Quarkus LangChain4j 的「fault tolerance × 工具幂等性」文档方案（[#2749](https://github.com/quarkiverse/quarkus-langchain4j/pull/2749)）。
 - 维护 3 个自研仓库，其中 2 个插件已发布 npm，并被收录进 DeepSeek 官方 awesome 生态列表。
 
-## 📈 GitHub 统计（可选，按需启用）
+## 📈 GitHub 统计
 
-```md
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kittimzhe&show_icons=true&theme=default)
-```
 
 ## 📫 找到我
 
