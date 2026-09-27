@@ -194,15 +194,14 @@ Governance & Observability
 
 ---
 
-## 📊 GitHub Stats
+## 📍 Selected Repositories
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kittimzhe&show_icons=true&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kittimzhe&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
+| Repository | Focus |
+|---|---|
+| [`insightloom`](https://github.com/kittimzhe/insightloom) | Self-hosted knowledge workbench with a visible multi-agent pipeline |
+| [`dsh-session-export`](https://github.com/kittimzhe/dsh-session-export) | Evidence-grade transcript export for DeepSeek Harness sessions |
+| [`dsh-session-recall`](https://github.com/kittimzhe/dsh-session-recall) | Cross-session recall and full-text search for agent memory |
+| [`dsh-session-eval`](https://github.com/kittimzhe/dsh-session-eval) | Deterministic retrospective evaluation for real agent sessions |
 
 ---
 
